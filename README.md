@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @joisemp
-- 👀 I’m interested in Design and Webdevelopment
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django Projects
-- 📫 Connect with me : https://www.linkedin.com/in/joisemp/
+### Hi there 👋, my name is Joise
+#### I am a Websitedeveloper as well as a Designer
+![I am a Websitedeveloper as well as a Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-joisemp/joisemp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
