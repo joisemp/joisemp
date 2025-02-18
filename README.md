@@ -6,7 +6,7 @@
 - 📫 Connect with me : https://www.linkedin.com/in/joisemp/
 
 ## Github
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joisemp&theme=github-dark-blue&hide_border=true)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joisemp&theme=dark)](https://git.io/streak-stats)
 
 <!--
 [![Joise MP's GitHub stats](https://github-readme-stats.vercel.app/api?username=joisemp&theme=github-dark-blue)](https://github.com/anuraghazra/github-readme-stats)
